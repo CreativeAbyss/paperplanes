@@ -117,7 +117,6 @@ function intro() {
         markers: false,
         start: "top 75%",
         end: "bottom 75%",
-        
     }})
         .to("#woo", { 
             scale: 4,
