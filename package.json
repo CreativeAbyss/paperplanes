@@ -1,0 +1,22 @@
+{
+  "name": "paperplanes",
+  "version": "1.0.0",
+  "description": "This is my first project made to learn the GSAP library.",
+  "main": "paperplane.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://CreativeAbyss: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@github.com/CreativeAbyss/paperplanes.git"
+  },
+  "author": "CreativeAbyss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CreativeAbyss/paperplanes/issues"
+  },
+  "homepage": "https://github.com/CreativeAbyss/paperplanes#readme",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
